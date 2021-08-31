@@ -19,6 +19,8 @@ This is a simple web project, deployment can be on any web server or even a loca
 
 ## How To Contribute
 
+please fork this repository and issue pull requests for review
+
 ### Copyright
 
 2021 Mark Rogers
