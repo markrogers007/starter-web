@@ -10,6 +10,9 @@ and various commands using a web project.
 
 ## Purpose
 
+As stated above, the main purpose is to provide a simple examples
+for git training demos 
+
 ## Deployment
 
 ## How To Contribute
