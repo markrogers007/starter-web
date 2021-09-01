@@ -1,8 +1,7 @@
 # Starter Web Project
 
 This is a sample website project for showing how to use git and
-GitHub together. adding a line for the rebasing example, then
-more changes from myfeature branch too.
+GitHub together. Updating for an emergency fix after stashing 
 
 ## Introduction
 
