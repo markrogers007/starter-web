@@ -24,4 +24,4 @@ please fork this repository and issue pull requests for review
 
 ### Copyright
 
-2021 Mark Rogers
+2021 Mark Rogers. All rights reserved
